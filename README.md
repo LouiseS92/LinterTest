@@ -1,3 +1,3 @@
 # LinterTest
 
-##Linter Test GitHub Actions
+## Linter Test GitHub Actions
